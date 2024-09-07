@@ -19,9 +19,11 @@ Information for the 2012 - 2024 matches was taken from YouTube recordings from t
 <!-- CONTACT -->
 ## Contact
 
-Email: [cassanib@bc.edu](cassani@bc.edu)
-LinkedIn: [https://www.linkedin.com/in/bruno-cassani-51bb95272/] (https://www.linkedin.com/in/bruno-cassani-51bb95272/)
-Project Link: [https://github.com/brunocassani/Olympic-Analysis](https://github.com/brunocassani/Olympic-Analysis)
+**Email:** [cassanib@bc.edu](mailto:cassanib@bc.edu)
+
+**LinkedIn:** [Bruno Cassani](https://www.linkedin.com/in/bruno-cassani-51bb95272/)
+
+**Project Link:** [Olympic-Analysis](https://github.com/brunocassani/Olympic-Analysis)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
